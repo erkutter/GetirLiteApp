@@ -2,16 +2,7 @@
     <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbvl-h8Si4l41ept7S-_DRZ297DXYPHCJwtQhVVQn6Q27RuktAV1wCmzBfKFin4namUSndJqOOhVVM7T7TgQXdlF-qFTB1R3w=w2864-h1586-rw-v1" alt="alt text" width="150" height="150" title="Optional title">
 </div>
 
-
-
 # 🛍️ Getir Lite App
-
-<div align="center">
-    <img src="https://github.com/erkutter/finalcase-getirbootcamp/assets/92941500/beb04add-370b-446d-ab24-09daaa4a7685" alt="Screenshot 6" width="170">
-    <img src="https://github.com/erkutter/finalcase-getirbootcamp/assets/92941500/ac650cd2-d976-4d1b-b0b4-d0a13296d241" alt="Screenshot 1" width="170">
-      <img src="https://github.com/erkutter/finalcase-getirbootcamp/assets/92941500/2e8ca3d5-3fef-4b6e-b6e2-3a8f3ec00665" alt="Screenshot 3" width="170">
-    <img src="https://github.com/erkutter/finalcase-getirbootcamp/assets/92941500/4f0bce49-fafc-4747-adfe-4eeece4e732b" alt="Screenshot 2" width="170">
-</div>
 
 ## Overview
 Welcome to the Getir Lite Shopping App, a simple and efficient application designed to enhance your online shopping experience 🚀. Inspired by the user-friendly interface of the Getir app, this project demonstrates a custom mobile shopping application using modern development techniques and architectural approaches in iOS development.
@@ -20,6 +11,7 @@ Welcome to the Getir Lite Shopping App, a simple and efficient application desig
 ### Prerequisites
 - Xcode 15.x 🛠️
 - Swift 5.x 🐦
+- iOS 13.x or above
 
 ### Installation
 1. Clone the repository to your local machine:
@@ -27,12 +19,18 @@ Welcome to the Getir Lite Shopping App, a simple and efficient application desig
 3. Build and run the application on your simulator or real device 📱.
 
 ## Architecture
+<img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/3a843f18-3b98-4cb3-86e4-f1c7bc840799" alt="Screenshot 2" width="600">
+
 This application employs the VIPER architecture 🏛️ to ensure clean separation of concerns and enhance maintainability. VIPER modules are used to encapsulate functionality related to different aspects of the app, such as Product Listing, Product Details, and Shopping Cart.
 
 ## Key Features
-- **Product Listing**: Products are fetched from a mock API and displayed in both horizontal and vertical scrollable lists.
-- **Product Details**: Detailed information about each product can be accessed, including image, name, price, and description.
+- **Product Listing**: Users can discover, add, remove products.
+- **Product Details**: User can see detailed information about each product can be accessed, including image, name, price, and description.
 - **Shopping Cart**: Users can add or remove products, view their cart, and proceed to checkout with a success message displaying the total amount.
+- **Quick Overview**<div align="left">
+    <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/d50fd4cf-0c53-4983-8694-779f1ff9986e" alt="App Demo" width="250" height="450">
+</div>
+
 
 ## Technical Details
 - **Compositional Layout**: Used to create flexible and complex layouts for the product lists 🌐.
@@ -49,16 +47,26 @@ This application employs the VIPER architecture 🏛️ to ensure clean separati
 ## Project Structure
 - `/Modules`: Contains all the VIPER modules.
 - `/Services`: For network services and data managers.
-- `/Common`: Includes utilities, extensions, and shared components.
+- `/Resources`: Includes utilities, extensions, and shared components.
 
 ## Design
 Follow the Figma designs provided by the Getir. 🎨.
-<div align="left">
-    <img src="https://github.com/erkutter/finalcase-getirbootcamp/assets/92941500/8c80d44f-17a5-40dd-b5cb-440f06972d1a" alt="App Demo" width="250" height="450">
+
+<div align="center">
+        <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/9fb4c59a-96a4-4d9a-bdf8-1fcadce1af3b" alt="Screenshot 2" width="300">
+    <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/17ec8850-ea28-49a2-bf08-bdf72820a6f4" alt="Screenshot 1" width="300">
+    <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/d4f02372-8c9d-471a-bd07-92f57cf1810e" alt="Screenshot 3" width="300">
+</div>
+    <div align="center">
+             <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/8ef98d77-a5f3-40f9-a7ba-df6a55a49264" alt="Screenshot 2" width="300">
+            <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/8140c09b-bc77-4356-8735-ae69d2caa5cd" alt="Screenshot 6" width="300">
+    <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/7586d89f-ed94-4071-b684-aaef58d114ab" alt="Screenshot 2" width="300">
 </div>
 
+
+
 ## Running Tests
-Unit tests are included to demonstrate testing strategies. Execute the tests via the Xcode Test navigator 🧪.
+Tests are included to demonstrate testing strategies. Execute the tests via the Xcode Test navigator 🧪.
 
 ## Contribution
 This project is intended as a demonstration of professional iOS development practices. Contributions are welcome via pull requests to the main branch 💬.
