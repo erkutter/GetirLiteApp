@@ -11,17 +11,20 @@ Welcome to the Getir Lite Shopping App, a simple and efficient application desig
 ### Prerequisites
 - Xcode 15.x 🛠️
 - Swift 5.x 🐦
-- iOS 13.x or above
+- iOS 13.x or ⬆️
 
 ### Installation
 1. Clone the repository to your local machine:
+```bash
+git clone https://github.com/erkutter/GetirLiteApp.git
+```
 2. Open the `.xcodeproj` file in Xcode.
 3. Build and run the application on your simulator or real device 📱.
 
-## Architecture
+## Architecture - VIPER
 <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/3a843f18-3b98-4cb3-86e4-f1c7bc840799" alt="Screenshot 2" width="600">
 
-This application employs the VIPER architecture 🏛️ to ensure clean separation of concerns and enhance maintainability. VIPER modules are used to encapsulate functionality related to different aspects of the app, such as Product Listing, Product Details, and Shopping Cart.
+This application employs the VIPER architecture to ensure clean separation of concerns and enhance maintainability. VIPER modules are used to encapsulate functionality related to different aspects of the app, such as Product Listing, Product Details, and Shopping Cart.
 
 ## Key Features
 - **Product Listing**: Users can discover, add, remove products.
@@ -66,7 +69,7 @@ Follow the Figma designs provided by the Getir. 🎨.
 
 
 ## Running Tests
-Tests are included to demonstrate testing strategies. Execute the tests via the Xcode Test navigator 🧪.
+Tests are included to demonstrate testing strategies. 🧪.
 
 ## Contribution
 This project is intended as a demonstration of professional iOS development practices. Contributions are welcome via pull requests to the main branch 💬.
