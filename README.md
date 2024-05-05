@@ -56,14 +56,14 @@ This application employs the VIPER architecture to ensure clean separation of co
 Follow the Figma designs provided by the Getir. 🎨.
 
 <div align="center">
-        <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/9fb4c59a-96a4-4d9a-bdf8-1fcadce1af3b" alt="Screenshot 2" width="300">
-    <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/17ec8850-ea28-49a2-bf08-bdf72820a6f4" alt="Screenshot 1" width="300">
-    <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/d4f02372-8c9d-471a-bd07-92f57cf1810e" alt="Screenshot 3" width="300">
+        <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/9fb4c59a-96a4-4d9a-bdf8-1fcadce1af3b" alt="Screenshot 2" width="250">
+    <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/17ec8850-ea28-49a2-bf08-bdf72820a6f4" alt="Screenshot 1" width="250">
+    <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/d4f02372-8c9d-471a-bd07-92f57cf1810e" alt="Screenshot 3" width="250">
 </div>
     <div align="center">
-             <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/8ef98d77-a5f3-40f9-a7ba-df6a55a49264" alt="Screenshot 2" width="300">
-            <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/8140c09b-bc77-4356-8735-ae69d2caa5cd" alt="Screenshot 6" width="300">
-    <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/7586d89f-ed94-4071-b684-aaef58d114ab" alt="Screenshot 2" width="300">
+             <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/8ef98d77-a5f3-40f9-a7ba-df6a55a49264" alt="Screenshot 2" width="250">
+            <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/8140c09b-bc77-4356-8735-ae69d2caa5cd" alt="Screenshot 6" width="250">
+    <img src="https://github.com/erkutter/GetirLiteApp/assets/92941500/7586d89f-ed94-4071-b684-aaef58d114ab" alt="Screenshot 2" width="250">
 </div>
 
 
