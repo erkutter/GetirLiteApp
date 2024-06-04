@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbvl-h8Si4l41ept7S-_DRZ297DXYPHCJwtQhVVQn6Q27RuktAV1wCmzBfKFin4namUSndJqOOhVVM7T7TgQXdlF-qFTB1R3w=w2864-h1586-rw-v1" alt="alt text" width="150" height="150" title="Optional title">
+    <img src="https://scontent.fist10-1.fna.fbcdn.net/v/t39.30808-6/342988719_616022930425333_1192460202384404029_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=IDn8EVGTULMQ7kNvgESTc9O&_nc_ht=scontent.fist10-1.fna&oh=00_AYBV0ATkmc5PD63ZHoat7ffV66tvEkshS7IFriHNS5prXQ&oe=6664B10D" alt="alt text" width="150" height="150" title="Optional title">
 </div>
 
 # 🛍️ Getir Lite App
